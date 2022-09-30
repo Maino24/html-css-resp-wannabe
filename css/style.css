@@ -128,11 +128,9 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
- @media screen and (max-width: 4810px) {
+ @media screen and (min-width: 480px) {
 
-    main{
-        text-align: center;
-    }
+    
 
     .row {
         display: flex;
